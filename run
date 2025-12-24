@@ -1,5 +1,5 @@
 git init
-echo "# My Project" > README.md
+echo "# codex" > README.md
 git add .
 git commit -m "Initial commit"
 git remote add origin https://github.com/yourusername/yourrepo.git
